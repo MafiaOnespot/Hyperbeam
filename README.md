@@ -1,6 +1,6 @@
 # hyperbeam
 
-A 1-1 end-to-end encrypted internet pipe powered by [Hyperswarm](https://github.com/hyperswarm/hyperswarm) and Noise
+A 1-1 end-to-end encrypted internet pipe powered by Hyperswarm .
 
 ```
 npm install hyperbeam
